@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* 使容器高度占满整个视口 */
+}
+
+.content {
+  text-align: center;
+  width: 80%;
+  /* 设置内容宽度，可根据需要调整 */
+}
